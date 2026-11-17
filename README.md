@@ -177,4 +177,4 @@ It provides a practical demonstration of healthcare data analytics, exploratory 
 **Dataset:** Synthetic healthcare encounter data
 ## Dashboard Preview
 
-![Healthcare Dashboard](06_Reports_and_Presentation/Healthcare_Dashboard_Screenshot.png)
+![Healthcare Dashboard](Healthcare_Dashboard_Screenshot.png)
