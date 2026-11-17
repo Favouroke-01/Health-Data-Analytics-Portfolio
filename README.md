@@ -122,7 +122,9 @@ August 2025 recorded the highest monthly encounter count at 100. November 2025 r
 - Admitted: 73
 
 Discharged encounters represented 92.4% of the dataset.
+## Dashboard Preview
 
+![Healthcare Dashboard](06_Reports_and_Presentation/Healthcare_Dashboard_Screenshot.png)
 ## Power BI Dashboard
 
 The interactive dashboard contains:
